@@ -1,3 +1,3 @@
--Pizza
--Seafood
--Water
+- Pizza
+- Seafood
+- Water
